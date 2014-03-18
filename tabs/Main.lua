@@ -2,7 +2,7 @@
 
 -- Use this function to perform your initial setup
 function setup()
-    print("Hello World!")
+    print("Touch the truck to hear sirens!")
     truck = FireTruck(WIDTH/2, HEIGHT/2)
 end
 
